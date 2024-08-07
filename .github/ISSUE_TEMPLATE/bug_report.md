@@ -2,8 +2,8 @@
 name: "🐛 Bug Report"
 about: Report a reproducible bug or regression.
 title: 'Bug: '
-labels: '[bug]'
-assignees: '[karan-0603]'
+labels: ["bug"]
+assignees: ["karan-0603"]
 
 ---
 
