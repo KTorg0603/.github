@@ -1,5 +1,5 @@
 ---
-title: '# (issue): '
+title: '#(issue): '
 ---
 
 # Description
